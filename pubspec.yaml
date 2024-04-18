@@ -1,13 +1,13 @@
-name: filter_profanity
+name: filter_profanity_flutter
 description: Dart package to recognize if provided string contains offensive words.
 
-version: 1.0.2+2
-homepage: https://github.com/sergiyvergun/filter_profanity
-repository: https://github.com/sergiyvergun/filter_profanity
-issue_tracker: https://github.com/sergiyvergun/filter_profanity/issues
+version: 1.0.0
+homepage: https://github.com/slaynn/filter_profanity_flutter
+repository: https://github.com/slaynn/filter_profanity_flutter
+issue_tracker: https://github.com/slaynn/filter_profanity_flutter/issues
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
+  sdk: ">=2.18.6 <3.0.0"
 
 dependencies:
   flutter:
@@ -23,4 +23,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
