@@ -1,6 +1,6 @@
 This project is a fork from https://github.com/sergiyvergun/filter_profanity in order to use in our apps and to be able to enrich the dictionnaries for us.
 
-# filter_profanity
+# filter_profanity_flutter
 
 # 🤬
 
@@ -44,7 +44,7 @@ This project is a fork from https://github.com/sergiyvergun/filter_profanity in 
 ✅ Import package
 
 ```dart
-import 'package:filter_profanity/filter_profanity.dart';
+import 'package:filter_profanity_flutter/filter_profanity_flutter.dart';
 ```
 
 🤬 Check if text has offensive words

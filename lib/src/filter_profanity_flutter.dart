@@ -1,4 +1,4 @@
-import 'package:filter_profanity/filter_profanity.dart';
+import 'package:filter_profanity_flutter/filter_profanity_flutter.dart';
 
 /// Check if provided String contains offensive words
 bool hasProfanity(String value, {List<String>? offensiveWords}) {

@@ -1,21 +1,18 @@
 name: example
 description: A new Flutter project.
 
-
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
-
-
+  sdk: ">=2.18.6 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  filter_profanity:
+  filter_profanity_flutter:
     path: ../
 
 dev_dependencies:
@@ -24,5 +21,4 @@ dev_dependencies:
   flutter_lints: ^2.0.1
 
 flutter:
-
   uses-material-design: true
