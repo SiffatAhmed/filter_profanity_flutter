@@ -4,8 +4,6 @@ This project is a fork from https://github.com/sergiyvergun/filter_profanity in 
 
 # 🤬
 
-[![pub points](https://img.shields.io/pub/points/filter_profanity?color=2E8B57&label=pub%20points)](https://pub.dev/packages/filter_profanity/score) [![pub package](https://img.shields.io/pub/v/filter_profanity.svg)](https://pub.dev/packages/filter_profanity)
-
 ##### Dart package to recognize if provided string contains offensive words.
 
 🌐 Supported languages:
