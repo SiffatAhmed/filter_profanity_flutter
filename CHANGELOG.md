@@ -1,5 +1,9 @@
 ## 1.0.1
 
+- Update words.
+
+## 1.0.1
+
 - Fix build.
 - Add words.
 
