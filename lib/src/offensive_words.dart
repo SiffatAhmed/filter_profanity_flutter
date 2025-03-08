@@ -24,7 +24,8 @@ List<String> allLanguagesOffensiveWords = arabicOffensiveWords +
     thaiOffensiveWords +
     turkishOffensiveWords +
     chineseOffensiveWords +
-    ukrainianOffensiveWords;
+    ukrainianOffensiveWords +
+    urduOffensiveWords;
 
 /// List of arabic offensive words
 List<String> arabicOffensiveWords = [
@@ -98,7 +99,7 @@ List<String> russianOffensiveWords = [
   'pizdetc',
   'pizdoi nakryt\'sja',
   'pizd\'uk',
-  'piz\`dyulina',
+  'piz`dyulina',
   'podi ku\'evo',
   'poeben',
   'блять',
@@ -2798,4 +2799,20 @@ List<String> ukrainianOffensiveWords = [
       'донечка шльондри'
       'донечка проститутки'
       'уйобок',
+];
+
+final List<String> urduOffensiveWords = [
+  // Roman Urdu Profanity
+  "chutiya", "harami", "bhenchod", "madarchod", "lodu", "gaand",
+  "kutta", "kamina", "kanjar", "randi", "paindu", "chodna", "chodu",
+  "gandu", "suar", "bewaqoof", "jhant", "gaandmasti", "ullu",
+  "chirkut", "tatti", "beghairat", "nalla", "luchcha", "lutera",
+  "badtameez", "nalaiq", "langra", "langotiya", "phuddu",
+
+  // Arabic Script Urdu Profanity
+  "چوتیا", "حرامی", "بہنچود", "مادرچود", "لوڈو", "گاند",
+  "کتا", "کمینہ", "کنجر", "رنڈی", "پینڈو", "چودنا",
+  "گاندو", "سور", "بیوقوف", "جھنٹ", "گاند مستی", "الو",
+  "چرکٹ", "تٹی", "بےغیرت", "نلا", "لچ", "لٹیرا",
+  "بدتمیز", "نالائق", "لنگڑا", "لنگوٹیا", "پھڈو"
 ];
